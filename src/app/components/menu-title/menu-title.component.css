@@ -1,0 +1,18 @@
+.container__menu-title{
+  color: gray;
+}
+
+.container__menu-title > h1{
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-weight: 100;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 80px;
+  display: flex;
+  justify-content: center;
+}
+
+.container__menu-title > hr{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}

@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-boxng;
+  background-color: beige;
+  color: gray;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 100;
+}
+
+a{
+  text-decoration: none;
+}
